@@ -16,26 +16,26 @@ This is a fan-made project created for learning and portfolio purposes. It is no
 The goal of each level is to solve the puzzle, unlock the door and proceed to the next level.
 
 The game includes:
-Portal-based movement
-Cubes and pressure buttons
-Light bridges
-Turrets
-Puzzle-based progression
-Tutorial level
-Environmental and logic puzzles
-Neon futuristic visual style
+Portal-based movement,
+Cubes and pressure buttons,
+Light bridges,
+Turrets,
+Puzzle-based progression,
+Tutorial level,
+Environmental and logic puzzles,
+Neon futuristic visual style.
 
 The game currently features 4 puzzle levels, each introducing and combining different mechanics.
 
-Controls
-WASD	Movement
-Space	Jump
-Mouse Wheel	Zoom in / out
-LMB	Shoot blue portal
-RMB	Shoot orange portal
-F	Pick up / drop object
-E	Throw held object
-Esc	Pause Menu
+Controls:
+WASD	Movement,
+Space	Jump,
+Mouse Wheel	Zoom in / out,
+LMB	Shoot blue portal,
+RMB	Shoot orange portal,
+F	Pick up / drop object,
+E	Throw held object,
+Esc	Pause Menu.
 
 The project was created as a programming and game-development exercise to explore how these mechanics could be implemented in Unity.
 

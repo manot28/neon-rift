@@ -361,6 +361,7 @@ GameObject:
   - component: {fileID: 5988458568118467401}
   - component: {fileID: 473526019990857674}
   - component: {fileID: 927022192048492836}
+  - component: {fileID: 1564516528663639422}
   m_Layer: 0
   m_Name: FPS Controller
   m_TagString: Player
@@ -397,12 +398,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f5a27a6dead5614096326b2afb73224, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  deathMenu: {fileID: 0}
   speed: 35
   jumpForce: 80
   hp: 15
   mouseSensitivity: 200
   cameraPivot: {fileID: 8957116512866795998}
+  deathMenu: {fileID: 0}
 --- !u!54 &2853355500414172798
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -491,6 +492,18 @@ Animation:
   m_AnimatePhysics: 0
   m_UpdateMode: 0
   m_CullingType: 0
+--- !u!114 &1564516528663639422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4478679858004547162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3a0f88226d215447bbc676e4f11deb3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
 --- !u!1 &7455892679758289901
 GameObject:
   m_ObjectHideFlags: 0

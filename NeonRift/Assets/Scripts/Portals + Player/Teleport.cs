@@ -97,6 +97,13 @@ public class Teleport : MonoBehaviour
             rb.position = newWorldPos;
             rb.rotation = newWorldRot;
             rb.linearVelocity = Other.transform.TransformDirection(localVel);
+            if (obj.CompareTag("Player"))
+            {
+                PlayerController player = obj.GetComponent<PlayerController>();
+
+                if (player != null)
+                    player.AlignToPortal(Other.transform.rotation);
+            }
         }
         else
         {

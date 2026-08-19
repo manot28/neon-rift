@@ -2654,11 +2654,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1438778353}
   m_LocalEulerAnglesHint: {x: 0, y: -180, z: -90}
---- !u!1 &314058450 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1312299078421767222, guid: 2515ee6407042d34b83b68f513dc01be, type: 3}
-  m_PrefabInstance: {fileID: 1323030923}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &326584237
 GameObject:
   m_ObjectHideFlags: 0
@@ -4382,7 +4377,7 @@ Transform:
   m_GameObject: {fileID: 600858974}
   serializedVersion: 2
   m_LocalRotation: {x: 0.70710695, y: 0.0000040754676, z: 0.000004030764, w: -0.7071067}
-  m_LocalPosition: {x: 71.4, y: 5, z: -53.9}
+  m_LocalPosition: {x: 71.4, y: 5.5, z: -53.9}
   m_LocalScale: {x: 14.561558, y: 7.25862, z: 19.89878}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4900,7 +4895,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8460804854432858148, guid: 49a1cf576a206ac42add09ad33c4fbbf, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -129.3
+      value: -131.9
       objectReference: {fileID: 0}
     - target: {fileID: 8460804854432858148, guid: 49a1cf576a206ac42add09ad33c4fbbf, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8018,23 +8013,15 @@ PrefabInstance:
     - target: {fileID: 264606537021578998, guid: 2515ee6407042d34b83b68f513dc01be, type: 3}
       propertyPath: activateSound
       value: 
-      objectReference: {fileID: 1363971899}
+      objectReference: {fileID: 0}
     - target: {fileID: 264606537021578998, guid: 2515ee6407042d34b83b68f513dc01be, type: 3}
       propertyPath: triggerOpenDoor
       value: 
-      objectReference: {fileID: 314058450}
+      objectReference: {fileID: 1432657616}
     - target: {fileID: 264606537021578998, guid: 2515ee6407042d34b83b68f513dc01be, type: 3}
       propertyPath: disactivateSound
       value: 
-      objectReference: {fileID: 1363971899}
-    - target: {fileID: 264606537021578998, guid: 2515ee6407042d34b83b68f513dc01be, type: 3}
-      propertyPath: buttons.Array.size
-      value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 264606537021578998, guid: 2515ee6407042d34b83b68f513dc01be, type: 3}
-      propertyPath: 'buttons.Array.data[0]'
-      value: 
-      objectReference: {fileID: 1432657621}
     - target: {fileID: 1312299078421767222, guid: 2515ee6407042d34b83b68f513dc01be, type: 3}
       propertyPath: m_Name
       value: Door
@@ -8108,7 +8095,7 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 264606537021578998, guid: 2515ee6407042d34b83b68f513dc01be, type: 3}
   m_PrefabInstance: {fileID: 1323030923}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 314058450}
+  m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: da3a1e2de4d6e204aac1cea092c415d3, type: 3}
@@ -8633,7 +8620,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ffc9b42fbe6272846a6c1a80a38d1758, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DoorFloorButtons
-  buttonAudio: {fileID: 1363971899}
+  buttonAudio: {fileID: 0}
   door: {fileID: 1323030930}
 --- !u!1 &1438778352
 GameObject:
@@ -9937,8 +9924,8 @@ Transform:
   m_GameObject: {fileID: 1696675213}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 56.16, y: 27.36, z: -12.32}
-  m_LocalScale: {x: 71.186485, y: 1.5375882, z: 5.0126634}
+  m_LocalPosition: {x: 59.06, y: 27.36, z: -12.32}
+  m_LocalScale: {x: 74.1648, y: 1.5375882, z: 5.0126634}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2114463387}

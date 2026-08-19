@@ -59,9 +59,11 @@ public class PlayerController : MonoBehaviour
         velocity.y = rb.linearVelocity.y;
 
         rb.linearVelocity = velocity;
-
-        Vector3 rot = rb.rotation.eulerAngles;
-        rb.rotation = Quaternion.Euler(0f, rot.y, 0f);
+    }
+    public void AlignToPortal(Quaternion portalRotation)
+    {
+        Vector3 euler = portalRotation.eulerAngles;
+        rb.rotation = Quaternion.Euler(0f, euler.y, 0f);
     }
 
     private void OnCollisionEnter(Collision collision)

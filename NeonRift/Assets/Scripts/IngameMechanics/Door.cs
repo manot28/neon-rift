@@ -42,7 +42,7 @@ public class Door : MonoBehaviour
         if (isOpen) return; // prevent spam
         isOpen = true;
 
-        triggerOpenDoor.SetActive(true);
+        triggerOpenDoor.SetActive(!triggerOpenDoor.activeSelf);
         indicator.material = mats[0];
         activateSound.Play();
     }
@@ -52,7 +52,7 @@ public class Door : MonoBehaviour
         if (!isOpen) return;
         isOpen = false;
 
-        triggerOpenDoor.SetActive(false);
+        triggerOpenDoor.SetActive(!triggerOpenDoor.activeSelf);
         indicator.material = mats[1];
         disactivateSound.Play();
     }

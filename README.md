@@ -42,13 +42,13 @@ The project was created as a programming and game-development exercise to explor
 
 CREDITS: 
 Sounds
-[Pixabay]([url](https://pixabay.com/))
+[Pixabay](https://pixabay.com/)
 
 Textures
-[Floor Textures 4K]([url](https://assetstore.unity.com/packages/2d/textures-materials/floor-textures-4k-179126?srsltid=AfmBOopJYD9WZkVLvIljzEvuy8YrsIw1HbSOUXj0E3XLwBoU6E7Ordws))
+[Floor Textures 4K](https://assetstore.unity.com/packages/2d/textures-materials/floor-textures-4k-179126?srsltid=AfmBOopJYD9WZkVLvIljzEvuy8YrsIw1HbSOUXj0E3XLwBoU6E7Ordws)
 
 Models
-[Sketchfab]([url](https://sketchfab.com/))
+[Sketchfab](https://sketchfab.com/)
 
 
 Disclaimer

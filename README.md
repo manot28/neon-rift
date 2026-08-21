@@ -1,62 +1,120 @@
-# neon-rift
+# Neon Rift
 
-Genre: First-Person Puzzle
-Engine: Unity
-Language: C#
-Levels: 4 + Tutorial
-Style: Neon / Futuristic
-Platform: PC
+A first-person puzzle game set in a futuristic neon environment.
 
-Neon Rift is a first-person puzzle game made in Unity, heavily inspired by the Portal game series by Valve.
+**Neon Rift** challenges players to navigate a series of puzzle chambers using portals, cubes, pressure buttons, light bridges, turrets, and environmental mechanics.
 
-Set in a futuristic neon environment, the game challenges you to navigate four puzzle levels using portals, cubes, buttons, light bridges, turrets, and other mechanics.
+The project was created in Unity as a programming and game-development exercise exploring how portal-based and physics-based puzzle mechanics can be implemented.
 
-This is a fan-made project created for learning and portfolio purposes. It is not affiliated with or endorsed by Valve.
+> **Note:** Neon Rift is heavily inspired by Valve's Portal game series. It is an independent fan-made project created for learning and portfolio purposes and is not affiliated with or endorsed by Valve.
 
-The goal of each level is to solve the puzzle, unlock the door and proceed to the next level.
+---
 
-The game includes:
-Portal-based movement,
-Cubes and pressure buttons,
-Light bridges,
-Turrets,
-Puzzle-based progression,
-Tutorial level,
-Environmental and logic puzzles,
-Neon futuristic visual style.
+## Built With
 
-The game currently features 4 puzzle levels, each introducing and combining different mechanics.
+- **Engine:** Unity
+- **Language:** C#
+- **Genre:** First-Person Puzzle
+- **Style:** Neon / Futuristic
+- **Platform:** PC
+- **Levels:** 4 Puzzle Levels + Tutorial
 
-Controls:
-WASD	Movement,
-Space	Jump,
-Mouse Wheel	Zoom in / out,
-LMB	Shoot blue portal,
-RMB	Shoot orange portal,
-F	Pick up / drop object,
-E	Throw held object,
-Esc	Pause Menu.
+---
 
-The project was created as a programming and game-development exercise to explore how these mechanics could be implemented in Unity.
+## Features
 
+- Portal-based movement
+- Cubes and pressure buttons
+- Light bridges
+- Turrets
+- Puzzle-based progression
+- Tutorial level
+- Environmental puzzles
+- Logic-based puzzles
+- Physics interactions
+- Neon futuristic visual style
 
-CREDITS: 
-Sounds
-https://pixabay.com
+---
 
-Textures
-https://assetstore.unity.com/packages/2d/textures-materials/floor-textures-4k-179126?srsltid=AfmBOopJYD9WZkVLvIljzEvuy8YrsIw1HbSOUXj0E3XLwBoU6E7Ordws
+## Gameplay
 
-Models
-https://sketchfab.com/
+The goal of each level is to solve environmental and logic puzzles, unlock the exit door, and proceed to the next chamber.
 
+The game currently features **4 puzzle levels**, with each level introducing and combining different mechanics.
 
-Disclaimer
+---
 
-Neon Rift is an independent fan-made project inspired by the Portal series.
-Portal and its related intellectual property belong to Valve Corporation. This project is not affiliated with, sponsored by, or endorsed by Valve.
-All third-party assets remain the property of their respective creators and are used according to their respective licenses.
+## Controls
 
+| Key / Input | Action |
+|---|---|
+| `WASD` | Movement |
+| `Space` | Jump |
+| `Mouse Wheel` | Zoom in / out |
+| `LMB` | Shoot blue portal |
+| `RMB` | Shoot orange portal |
+| `F` | Pick up / drop object |
+| `E` | Throw held object |
+| `Esc` | Open pause menu |
+
+---
+
+## Game Mechanics
+
+### Portals
+
+Place two connected portals and use them to travel through the environment and solve puzzles.
+
+### Cubes & Pressure Buttons
+
+Pick up and place cubes on pressure buttons to activate mechanisms and unlock new paths.
+
+### Light Bridges
+
+Use light bridges to cross gaps and navigate through puzzle chambers.
+
+### Turrets
+
+Avoid or interact with turrets while progressing through the levels.
+
+---
+
+## Screenshots & Gameplay
 
 Screenshots and gameplay footage can be found on the project's itch.io page.
-https://membrana404.itch.io/neonrift
+
+### Play the Game
+
+[Download and play Neon Rift on itch.io](https://membrana404.itch.io/neonrift)
+
+---
+
+## Credits & Assets
+
+### Sounds
+
+Sounds used in the game were sourced from:
+
+- [Pixabay](https://pixabay.com/)
+
+### Textures
+
+Textures used in the project:
+
+- [Floor Textures 4K — Unity Asset Store](https://assetstore.unity.com/packages/2d/textures-materials/floor-textures-4k-179126)
+
+### Models
+
+Some models were sourced from:
+
+- [Sketchfab](https://sketchfab.com/)
+
+---
+
+## Disclaimer
+
+**Neon Rift** is an independent fan-made project inspired by the **Portal** series.
+
+Portal and its related intellectual property belong to Valve Corporation. This project is not affiliated with, sponsored by, or endorsed by Valve.
+
+All third-party assets remain the property of their respective creators and are used according to their respective licenses.

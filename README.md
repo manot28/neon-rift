@@ -2,7 +2,7 @@
 
 A first-person puzzle game set in a futuristic neon environment.
 
-**Neon Rift** challenges players to navigate a series of puzzle chambers using portals, cubes, pressure buttons, light bridges, turrets, and environmental mechanics.
+Neon Rift challenges players to navigate a series of puzzle chambers using portals, cubes, pressure buttons, light bridges, turrets, and environmental mechanics.
 
 The project was created in Unity as a programming and game-development exercise exploring how portal-based and physics-based puzzle mechanics can be implemented.
 
@@ -15,9 +15,7 @@ The project was created in Unity as a programming and game-development exercise 
 - **Engine:** Unity
 - **Language:** C#
 - **Genre:** First-Person Puzzle
-- **Style:** Neon / Futuristic
 - **Platform:** PC
-- **Levels:** 4 Puzzle Levels + Tutorial
 
 ---
 
@@ -32,15 +30,13 @@ The project was created in Unity as a programming and game-development exercise 
 - Environmental puzzles
 - Logic-based puzzles
 - Physics interactions
-- Neon futuristic visual style
 
 ---
 
 ## Gameplay
 
 The goal of each level is to solve environmental and logic puzzles, unlock the exit door, and proceed to the next chamber.
-
-The game currently features **4 puzzle levels**, with each level introducing and combining different mechanics.
+The game currently features 4 puzzle levels, with each level introducing and combining different mechanics.
 
 ---
 
@@ -52,7 +48,7 @@ The game currently features **4 puzzle levels**, with each level introducing and
 | `Space` | Jump |
 | `Mouse Wheel` | Zoom in / out |
 | `LMB` | Shoot blue portal |
-| `RMB` | Shoot orange portal |
+| `RMB` | Shoot purple portal |
 | `F` | Pick up / drop object |
 | `E` | Throw held object |
 | `Esc` | Open pause menu |
@@ -81,7 +77,11 @@ Avoid or interact with turrets while progressing through the levels.
 
 ## Screenshots & Gameplay
 
-Screenshots and gameplay footage can be found on the project's itch.io page.
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/719d08e5-5825-47d0-a5d6-28689df0ab3d" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2b3d9fbc-0dab-4176-b9cb-f2ee25e7e56d" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8bb4f9f7-57bf-4987-bf1b-d03b8586664a" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9ec6ccfe-0751-47b8-bb30-41762ec52667" />
+<img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/95d775c8-0e27-42a1-91ac-0b1256862669" />
 
 ### Play the Game
 
